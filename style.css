@@ -56,7 +56,7 @@ h1 {
 	visibility: hidden;
 }
 
-.form-box.erro .error-text {
+.form-box.error .error-text {
 	visibility: visible;
 }
 
